@@ -1,3 +1,3 @@
 # newrepo
-first public git repo 
+ my first public git repo ,
 author - hesha 
